@@ -1,2 +1,2 @@
 # git_test
-"Hello Odin!"
+"Hello Odin!" I am already enjoying the learning journey.
